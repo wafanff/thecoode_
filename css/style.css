@@ -751,6 +751,18 @@ footer .credit a {
   .hero .content .textBox {
     padding-top: 3rem;
   }
+    .testimonial-text {
+    height: 280px;
+  }
+  .testimonial-pic {
+    margin-top: 8px;
+  }
+  .user-pic {
+    width: 58px;
+  }
+  .user-pic.active-pic {
+    width: 90px;
+  }
 }
 
 /* Mobile Phone */
@@ -775,6 +787,26 @@ footer .credit a {
   }
   .menu .box-container .box .image img {
     height: 15rem;
+  }
+  .menu .box-container .box .content {
+    padding: 1.1rem;
+  }
+  .menu .box-container .box .content .price {
+    padding-top: 0.5rem;
+  }
+  .testimonial-text {
+    height: 260px;
+  }
+  .testimonial-pic {
+    margin-top: 17px;
+  }
+  .user-pic {
+    width: 45px;
+    padding: 5px;
+    margin: 5px;
+  }
+  .user-pic.active-pic {
+    width: 75px;
   }
 }
 
